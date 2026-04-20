@@ -1,0 +1,6 @@
+dsmcvenv/
+dsmcdll.exe
+dflash.exe
+output.txt
+__pycache__/
+*.pyc
